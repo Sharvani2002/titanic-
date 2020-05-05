@@ -1,7 +1,7 @@
 titanic
 ==============================
 
-titanic data science
+titanic data science project
 
 Project Organization
 ------------
